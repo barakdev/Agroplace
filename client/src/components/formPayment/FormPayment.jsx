@@ -14,7 +14,7 @@ import {
 } from "@material-ui/core/styles";
 
 // React components
-import Paypal from "../paypal/paypal";
+import Paypal from "../Paypal/Paypal";
 import { OptionsLocation } from "./OptionsLocation";
 
 const useStyles = makeStyles({

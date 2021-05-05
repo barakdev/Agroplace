@@ -26,7 +26,7 @@ import Newsletter from './components/Newsletter/Newsletter';
 import Successful from './components/Mercadopago/Successful';
 import ResetPassword from './components/Admin/ResetPassword';
 import EmailPassword from './components/Admin/EmailPassword';
-import SuccessfulPaypal from './components/paypal/Successful';
+import SuccessfulPaypal from './components/Paypal/Successful';
 import MapContainer from './components/LocationStock/DistributionCenters';
 
 function App() {
